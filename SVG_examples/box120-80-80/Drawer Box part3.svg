@@ -1,0 +1,168 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="4.724409448818898in"
+     height="2.0866141732283467in"
+     viewBox="0 0 120.0 53">
+
+  <path d="M 4 0 H 10
+M 20 0 H 30
+M 40 0 H 80.0
+M 90.0 0 H 100.0
+M 110.0 0 H 116.0
+M 0 10 V 20
+M 120.0 10 V 20
+M 0 30 V 40
+M 120.0 30 V 40
+M 4 53 H 116.0
+
+        M 10 0
+        V 4
+        H 13.85
+        V 7
+        H 12.5
+        V 8.8
+        H 13.85
+        V 10
+        H 16.15
+        V 8.8
+        H 17.5
+        V 7
+        H 16.15
+        V 4
+        H 20
+        V 0
+        
+        M 30 0
+        V 4
+        H 33.85
+        V 7
+        H 32.5
+        V 8.8
+        H 33.85
+        V 10
+        H 36.15
+        V 8.8
+        H 37.5
+        V 7
+        H 36.15
+        V 4
+        H 40
+        V 0
+        
+        M 80.0 0
+        V 4
+        H 83.85
+        V 7
+        H 82.5
+        V 8.8
+        H 83.85
+        V 10
+        H 86.15
+        V 8.8
+        H 87.5
+        V 7
+        H 86.15
+        V 4
+        H 90.0
+        V 0
+        
+        M 100.0 0
+        V 4
+        H 103.85
+        V 7
+        H 102.5
+        V 8.8
+        H 103.85
+        V 10
+        H 106.15
+        V 8.8
+        H 107.5
+        V 7
+        H 106.15
+        V 4
+        H 110.0
+        V 0
+        
+            M 4 0
+            V 10
+            H 0
+            
+            M 116.0 0
+            V 10
+            H 120.0
+            
+            M 0 20
+            H 4
+            V 23.85
+            H 7
+            V 22.5
+            H 8.8
+            V 23.85
+            H 10
+            V 26.15
+            H 8.8
+            V 27.5
+            H 7
+            V 26.15
+            H 4
+            V 30
+            H 0
+            
+                M 120.0 20
+                H 116.0
+                V 23.85
+                H 113.0
+                V 22.5
+                H 111.2
+                V 23.85
+                H 110.0
+                V 26.15
+                H 111.2
+                V 27.5
+                H 113.0
+                V 26.15
+                H 116.0
+                V 30
+                H 120.0
+                
+            M 0 40
+            H 4
+            V 53
+            
+                M 120.0 40
+                H 116.0
+                V 53
+                "
+        fill="none"
+        stroke="black"
+        stroke-width="0.05"
+        fill-rule="evenodd"/>
+
+  <g fill="none" stroke="green" stroke-width="0.05">
+    
+                 <circle cx="25.0"
+                    cy="2.0"
+                    r="1.15" />
+                 
+                 <circle cx="45.0"
+                    cy="2.0"
+                    r="1.15" />
+                 
+                 <circle cx="75.0"
+                    cy="2.0"
+                    r="1.15"/>
+                    
+                 <circle cx="95.0"
+                    cy="2.0"
+                    r="1.15"/>
+                    
+  </g>
+  <text x="60.0"
+        y="26.666666666666668"
+        text-anchor="middle"
+        font-family="Arial"
+        font-size="16.8"
+        fill="red">
+    Drawer Box
+  </text>
+</svg>

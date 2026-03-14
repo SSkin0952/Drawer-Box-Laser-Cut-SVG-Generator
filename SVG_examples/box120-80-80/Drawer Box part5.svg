@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="4.724409448818898in"
+     height="2.204724409448819in"
+     viewBox="0 0 120.0 56.0">
+
+  <path d="M 4 0 H 116.0
+M 4 56.0 H 116.0
+M 120.0 10 V 20
+M 0 10 V 20
+M 120.0 30 V 40
+M 0 30 V 40
+
+            M 116.0 0
+            V 10
+            H 120.0
+            
+            M 4 0
+            V 10
+            H 0
+            
+            M 120.0 20
+            H 116.0
+            V 30
+            H 120.0
+            
+            M 0 20
+            H 4
+            V 30
+            H 0
+            M 120.0 40 H 116.0 V 56.0
+M 0 40 H 4 V 56.0
+"
+        fill="none"
+        stroke="black"
+        stroke-width="0.05"
+        fill-rule="evenodd"/>
+
+</svg>
